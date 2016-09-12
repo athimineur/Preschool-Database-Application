@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\bin\Debug\The Book!.exe.config
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\bin\Debug\The Book!.exe
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\bin\Debug\The Book!.pdb
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\bin\Debug\The Book!.xml
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.Resources.resources
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The Book!.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The Book!.exe
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The Book!.xml
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The Book!.pdb
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.Add_New_Screen.resources
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.Records_Screen.resources
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.StartUp_Form.resources
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.Main_Menu.resources
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.Projection_GridMode.resources
+C:\Users\Owner\Documents\visual basic\Preschool\Actually The Book\The Book!\The Book!\obj\Debug\The_Book_.Edit.resources
